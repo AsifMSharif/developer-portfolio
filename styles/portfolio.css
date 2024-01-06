@@ -11,9 +11,9 @@ nav {
 }
 
 .nav-title {
-color: var(--Dark-01, #181818);
+color: #181818;
 font-size: 85px;
-font-weight: 700;
+font-weight: 800;
 }
 
 .text-primary {
@@ -43,4 +43,8 @@ color: white;
 font-size: 20px;
 font-weight: 700;
 padding: 15px 35px;
+}
+
+.header {
+    background-color: #FFF8F3;
 }
